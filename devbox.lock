@@ -1,0 +1,107 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "nats-server@latest": {
+      "last_modified": "2023-11-07T07:44:29Z",
+      "resolved": "github:NixOS/nixpkgs/ec750fd01963ab6b20ee1f0cb488754e8036d89d#nats-server",
+      "source": "devbox-search",
+      "version": "2.10.4",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/b3d7wmzmpxky7gq8q1260kbgwri7pvjk-nats-server-2.10.4"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/z2l6a84k7iiyiv6q88h3ydf424xbbwf8-nats-server-2.10.4"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/kc8hpfc976ls948nnav6mm50d8pf87ss-nats-server-2.10.4"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/30dx8s36jn0ch2gnda21s3zpf6hhzl2f-nats-server-2.10.4"
+        }
+      }
+    },
+    "nats-top@latest": {
+      "last_modified": "2023-10-25T20:49:13Z",
+      "resolved": "github:NixOS/nixpkgs/75a52265bda7fd25e06e3a67dee3f0354e73243c#nats-top",
+      "source": "devbox-search",
+      "version": "0.6.1",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/pk4am3ljs8qa148qmsw7rszx5vccgq7n-nats-top-0.6.1"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/vvgqpisl543y3rcmy505z6yc73kdd46r-nats-top-0.6.1"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/g0db9pjnf7s7xpknsi6b4x1bx9lpkr2k-nats-top-0.6.1"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/hh22cs9ir195hvkvbhb41pj2m78x5209-nats-top-0.6.1"
+        }
+      }
+    },
+    "natscli@latest": {
+      "last_modified": "2023-10-25T20:49:13Z",
+      "resolved": "github:NixOS/nixpkgs/75a52265bda7fd25e06e3a67dee3f0354e73243c#natscli",
+      "source": "devbox-search",
+      "version": "0.1.1",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/1hm31pdzrxb1v0l068vzxb76kfv4pzy6-natscli-0.1.1"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/f4imb92l9i2iphvxk7iq3i8nr4rynava-natscli-0.1.1"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/p173vj817xzv2b70s4kh8xijavqs5yqd-natscli-0.1.1"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/yx5dq51zh2s5z372ymlbq231jaiwx101-natscli-0.1.1"
+        }
+      }
+    },
+    "postgresql_12@latest": {
+      "last_modified": "2023-11-07T07:44:29Z",
+      "plugin_version": "0.0.2",
+      "resolved": "github:NixOS/nixpkgs/ec750fd01963ab6b20ee1f0cb488754e8036d89d#postgresql_12",
+      "source": "devbox-search",
+      "version": "12.16",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/lb8s6zw19zxp0gr9c86z8s50ja7hkg4a-postgresql-12.16"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/jccjbiryc57mncjvscpspfgjz8q6gdgb-postgresql-12.16"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/d9142z8i0cxg5pb2rcbwscm8ln3rqq5y-postgresql-12.16"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/04ypkmfi12g6sfsik4nkbwd04wzvrpjp-postgresql-12.16"
+        }
+      }
+    },
+    "redis@latest": {
+      "last_modified": "2023-11-03T06:15:35Z",
+      "plugin_version": "0.0.2",
+      "resolved": "github:NixOS/nixpkgs/35aa343cbaad799465b5b13ee3e4f5e78fe79aef#redis",
+      "source": "devbox-search",
+      "version": "7.2.3",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/zlh9aj72mmq0lnbqqky59r7327qlmfn9-redis-7.2.3"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/ck6g07fng7dlr3mqmi8klsg61syqz3a2-redis-7.2.3"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/q8vvxkjz2nbmhwp7bair24bzql2g7jii-redis-7.2.3"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/wxa7s0i892ipf63j6pxr1viqcmcjvzb3-redis-7.2.3"
+        }
+      }
+    }
+  }
+}
